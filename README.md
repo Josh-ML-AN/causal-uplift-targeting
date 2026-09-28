@@ -46,7 +46,7 @@ treatment
 visit
 ```
 
-Please review the dataset's current license and usage terms at the source before using it.
+Dataset license: The Criteo Uplift Prediction Dataset is currently distributed under the CC BY-NC-SA 4.0 license. The dataset is not redistributed in this repository; users should obtain it directly from Criteo and comply with the applicable license terms.
 
 ## Running the notebook
 
